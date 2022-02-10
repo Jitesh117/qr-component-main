@@ -13,7 +13,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+
 
 ## Overview
 
@@ -26,7 +26,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 -  [Solution URL](https://your-solution-url.com)
--  [Live Site URL](https://your-live-site-url.com)
+-  [Live Site URL](https://qr-component-main.vercel.app/)
 
 ## My process
 
@@ -37,7 +37,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Flexbox
 - Mobile first 
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+
 
 
 
@@ -47,7 +47,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@yourusername](https://www.twitter.com/yourusername)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 ## Acknowledgments
 
