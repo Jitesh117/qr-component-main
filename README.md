@@ -9,11 +9,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  
 - [Author](#author)
 <!-- - [Acknowledgments](#acknowledgments) -->
-
-
 
 ## Overview
 
@@ -33,14 +30,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
+- CSS custom properties 
+- Flexbox 
 - Mobile first 
-
-
-
-
-
 ## Author
 
 - Website - [Jitesh117](https://www.your-site.com)
